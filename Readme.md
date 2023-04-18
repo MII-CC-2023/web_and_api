@@ -147,3 +147,12 @@ Para probar la API usar:
 - Postman: https://www.postman.com/downloads/
 
 
+
+## Base de datos
+
+https://www.sqlalchemy.org/
+
+
+## Desplegando en Pythonanywhere
+
+https://blog.pythonanywhere.com/121/
