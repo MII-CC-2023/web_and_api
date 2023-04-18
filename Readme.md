@@ -12,6 +12,7 @@ Ejemplo:
 
 ### Estructura del directorio
 
+```
 app
   |- static
   |       |- css
@@ -26,6 +27,7 @@ app
   |          | (Plantillas HTML)
   |          `- index.html
   `- web.py
+```
 
 Fichero web.py
 ```python
@@ -138,9 +140,10 @@ if __name__ == '__main__':
     app.run(debug=True)
 ```
 
-Para probar la API usar
+Para probar la API usar:
 
-Insomnia: https://insomnia.rest/download
-Postman: https://www.postman.com/downloads/
+- Insomnia: https://insomnia.rest/download
+
+- Postman: https://www.postman.com/downloads/
 
 
